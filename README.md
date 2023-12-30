@@ -29,6 +29,10 @@
     -   Screenshot
 -   Anti-debug
 
+## installation
+
+- follow the stpes of the 
+
 ![image](https://github.com/RCmethodz/RCGrabber/assets/155228545/277ec444-913c-4163-ae75-1733040aa323)
 
 ![image](https://github.com/RCmethodz/RCGrabber/assets/155228545/6cc612c9-0041-474d-a7dc-ba315f057ec5)
